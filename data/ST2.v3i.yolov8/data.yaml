@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['bubble']
+
+roboflow:
+  workspace: mrp-mr1pj
+  project: st2-dc8d9
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/mrp-mr1pj/st2-dc8d9/dataset/3
