@@ -22,4 +22,8 @@ python3 val_bubbles.py <path_to_trained_model>
 
 ## Detection
 
-Lets detect some bubbles
+Lets detect some bubbles:
+
+```
+python3 predict_bubbles.py <path_to_trained_model> <path_to_jpeg>
+```
