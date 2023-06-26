@@ -1,2 +1,5 @@
 /runs
 yolov8m.pt
+output.jpg
+.DS_Store
+/env
